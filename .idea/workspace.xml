@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c98df0d-2d55-4975-8edc-efd63975e6c3" name="Default Changelist" comment="[Master] - Start project in order to ministrate a Tech Day about SOLID.">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/solid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solid/dip/MySqlConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solid/dip/PasswordRetriever.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solid/isp/Arara.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solid/isp/Aves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solid/isp/Pinguim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solid/lsp/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solid/lsp/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solid/ocp/Contrato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solid/ocp/ContratoClt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solid/ocp/Estagio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solid/ocp/FolhaPagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solid/srp/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/solid/srp/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/solid/dip/PasswordRetrieverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/solid/lsp/ExampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/solid/ocp/FolhaPagamentoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/solid/srp/OrderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fFmLH4P2kFP8jHQZw7bzuBZ3Z7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in solid">
+    <configuration name="All in solid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="solid" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="solid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.solid.srp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.solid.srp" />
+      <option name="MAIN_CLASS_NAME" value="com.solid.srp.OrderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in solid" />
+        <item itemvalue="JUnit.OrderTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c98df0d-2d55-4975-8edc-efd63975e6c3" name="Default Changelist" comment="" />
+      <created>1595822157019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595822157019</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="[Master] - Start project in order to ministrate a Tech Day about SOLID." />
+    <option name="LAST_COMMIT_MESSAGE" value="[Master] - Start project in order to ministrate a Tech Day about SOLID." />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2384" y="478" width="1024" height="845" key="#Project_Structure" timestamp="1595824338439">
+      <screen x="1920" y="362" width="1920" height="1080" />
+    </state>
+    <state x="2384" y="478" width="1024" height="845" key="#Project_Structure/42.389.1878.1053/1920.362.1920.1080/3840.0.1200.1920@1920.362.1920.1080" timestamp="1595824338439" />
+    <state x="2359" y="559" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595825303559">
+      <screen x="1920" y="362" width="1920" height="1080" />
+    </state>
+    <state x="2359" y="559" key="#com.intellij.execution.impl.EditConfigurationsDialog/42.389.1878.1053/1920.362.1920.1080/3840.0.1200.1920@1920.362.1920.1080" timestamp="1595825303559" />
+    <state x="2395" y="449" width="1002" height="904" key="CommitChangelistDialog2" timestamp="1595826049280">
+      <screen x="1920" y="362" width="1920" height="1080" />
+    </state>
+    <state x="2395" y="449" width="1002" height="904" key="CommitChangelistDialog2/42.389.1878.1053/1920.362.1920.1080/3840.0.1200.1920@1920.362.1920.1080" timestamp="1595826049280" />
+    <state x="2140" y="465" width="1502" height="872" key="DiffContextDialog" timestamp="1595825809405">
+      <screen x="1920" y="362" width="1920" height="1080" />
+    </state>
+    <state x="2140" y="465" width="1502" height="872" key="DiffContextDialog/42.389.1878.1053/1920.362.1920.1080/3840.0.1200.1920@1920.362.1920.1080" timestamp="1595825809405" />
+    <state x="2841" y="798" width="495" height="484" key="FileChooserDialogImpl" timestamp="1595825340440">
+      <screen x="1920" y="362" width="1920" height="1080" />
+    </state>
+    <state x="2841" y="798" width="495" height="484" key="FileChooserDialogImpl/42.389.1878.1053/1920.362.1920.1080/3840.0.1200.1920@1920.362.1920.1080" timestamp="1595825340440" />
+    <state width="1832" height="279" key="GridCell.Tab.0.bottom" timestamp="1595825864565">
+      <screen x="1920" y="362" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="279" key="GridCell.Tab.0.bottom/42.389.1878.1053/1920.362.1920.1080/3840.0.1200.1920@1920.362.1920.1080" timestamp="1595825864565" />
+    <state width="1832" height="279" key="GridCell.Tab.0.center" timestamp="1595825864565">
+      <screen x="1920" y="362" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="279" key="GridCell.Tab.0.center/42.389.1878.1053/1920.362.1920.1080/3840.0.1200.1920@1920.362.1920.1080" timestamp="1595825864565" />
+    <state width="1832" height="279" key="GridCell.Tab.0.left" timestamp="1595825864565">
+      <screen x="1920" y="362" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="279" key="GridCell.Tab.0.left/42.389.1878.1053/1920.362.1920.1080/3840.0.1200.1920@1920.362.1920.1080" timestamp="1595825864565" />
+    <state width="1832" height="279" key="GridCell.Tab.0.right" timestamp="1595825864565">
+      <screen x="1920" y="362" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="279" key="GridCell.Tab.0.right/42.389.1878.1053/1920.362.1920.1080/3840.0.1200.1920@1920.362.1920.1080" timestamp="1595825864565" />
+    <state x="2384" y="478" width="1024" height="845" key="SettingsEditor" timestamp="1595825496273">
+      <screen x="1920" y="362" width="1920" height="1080" />
+    </state>
+    <state x="2384" y="478" width="1024" height="845" key="SettingsEditor/42.389.1878.1053/1920.362.1920.1080/3840.0.1200.1920@1920.362.1920.1080" timestamp="1595825496273" />
+    <state x="2573" y="794" width="646" height="229" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1595824613843">
+      <screen x="1920" y="362" width="1920" height="1080" />
+    </state>
+    <state x="2573" y="794" width="646" height="229" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/42.389.1878.1053/1920.362.1920.1080/3840.0.1200.1920@1920.362.1920.1080" timestamp="1595824613843" />
+    <state x="2592" y="466" width="618" height="870" key="find.popup" timestamp="1595825693497">
+      <screen x="1920" y="362" width="1920" height="1080" />
+    </state>
+    <state x="2592" y="466" width="618" height="870" key="find.popup/42.389.1878.1053/1920.362.1920.1080/3840.0.1200.1920@1920.362.1920.1080" timestamp="1595825693497" />
+  </component>
+</project>
